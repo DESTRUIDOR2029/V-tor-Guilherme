@@ -28,7 +28,7 @@
 
 ## 📊 Estatísticas
 
-![Vítor Guilherme](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&locale=pt-br&hide_border=true)
+![DESTRUIDOR2029](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&locale=pt-br&hide_border=true)
 
 ---
 
