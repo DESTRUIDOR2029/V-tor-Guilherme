@@ -1,5 +1,4 @@
-#🧑‍💻 Vítor Guilherme
-# Olá, eu sou o Vitor! 👋
+# Olá, eu sou o Vitor Guilherme! 👋
 
 🎓 Estudante de Ciências da Computação — 1º semestre  
 💻 Aprendendo lógica de programação, Python e desenvolvimento web  
@@ -21,14 +20,14 @@
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
-| 📚 [Sistema de Biblioteca](link_do_repo) | Gerenciamento de acervo em Python | Python |
-| 🌾 [TursLock](link_do_repo) | Plataforma web para turismo rural | HTML/Tailwind CSS |
+| 📚 [Sistema de Biblioteca](https://github.com/DESTRUIDOR2029/sistema-biblioteca) | Gerenciamento de acervo em Python | Python |
+| 🌾 [TursLock](https://github.com/DESTRUIDOR2029/turslock) | Plataforma web para turismo rural | HTML/Tailwind CSS |
 
 ---
 
 ## 📊 Estatísticas
 
-![DESTRUIDOR2029](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&locale=pt-br&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DESTRUIDOR2029&show_icons=true&theme=default&locale=pt-br&hide_border=true)
 
 ---
 
